@@ -1,0 +1,17 @@
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\bin\Debug\netcoreapp2.2\Common.Utility.deps.json
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\bin\Debug\netcoreapp2.2\Common.Utility.dll
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.AssemblyInfo.cs
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\bin\Debug\netcoreapp2.2\Common.Utility.pdb
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.dll
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.pdb
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.csprojAssemblyReference.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\bin\Debug\netcoreapp2.2\Common.Utility.deps.json
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\bin\Debug\netcoreapp2.2\Common.Utility.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\bin\Debug\netcoreapp2.2\Common.Utility.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.AssemblyInfo.cs
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\Common.Utility\obj\Debug\netcoreapp2.2\Common.Utility.pdb

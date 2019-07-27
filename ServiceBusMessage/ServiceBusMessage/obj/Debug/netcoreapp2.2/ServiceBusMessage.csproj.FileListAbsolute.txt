@@ -1,0 +1,12 @@
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\obj\Debug\netcoreapp2.2\ServiceBusMessage.csprojAssemblyReference.cache
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\obj\Debug\netcoreapp2.2\ServiceBusMessage.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\obj\Debug\netcoreapp2.2\ServiceBusMessage.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\obj\Debug\netcoreapp2.2\ServiceBusMessage.AssemblyInfo.cs
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\bin\Debug\netcoreapp2.2\ServiceBusMessage.deps.json
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\bin\Debug\netcoreapp2.2\ServiceBusMessage.dll
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\bin\Debug\netcoreapp2.2\ServiceBusMessage.pdb
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\bin\Debug\netcoreapp2.2\MessageQueue.Models.dll
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\bin\Debug\netcoreapp2.2\MessageQueue.Models.pdb
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\obj\Debug\netcoreapp2.2\ServiceBusMessage.csproj.CopyComplete
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\obj\Debug\netcoreapp2.2\ServiceBusMessage.dll
+D:\Alten\VehicleTracking\ServiceBusMessage\ServiceBusMessage\obj\Debug\netcoreapp2.2\ServiceBusMessage.pdb

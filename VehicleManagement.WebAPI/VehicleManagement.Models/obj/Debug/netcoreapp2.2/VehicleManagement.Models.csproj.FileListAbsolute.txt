@@ -1,0 +1,8 @@
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\bin\Debug\netcoreapp2.2\VehicleManagement.Models.deps.json
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\bin\Debug\netcoreapp2.2\VehicleManagement.Models.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\bin\Debug\netcoreapp2.2\VehicleManagement.Models.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\obj\Debug\netcoreapp2.2\VehicleManagement.Models.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\obj\Debug\netcoreapp2.2\VehicleManagement.Models.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\obj\Debug\netcoreapp2.2\VehicleManagement.Models.AssemblyInfo.cs
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\obj\Debug\netcoreapp2.2\VehicleManagement.Models.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.Models\obj\Debug\netcoreapp2.2\VehicleManagement.Models.pdb

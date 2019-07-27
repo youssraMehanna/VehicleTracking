@@ -1,0 +1,16 @@
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\obj\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.csprojAssemblyReference.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\obj\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\obj\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\obj\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.AssemblyInfo.cs
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.deps.json
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\Common.Utility.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\VehicleManagement.Interfaces.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\VehicleManagement.Models.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\Common.Utility.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\VehicleManagement.Interfaces.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\VehicleManagement.Models.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\obj\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.csproj.CopyComplete
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\bin\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\obj\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.DatabaseService\obj\Debug\netcoreapp2.2\VehicleManagement.DatabaseService.pdb

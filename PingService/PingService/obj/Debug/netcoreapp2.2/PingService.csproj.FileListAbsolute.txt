@@ -1,0 +1,33 @@
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.csproj.CoreCompileInputs.cache
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.AssemblyInfoInputs.cache
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.AssemblyInfo.cs
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.deps.json
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.runtimeconfig.json
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.runtimeconfig.dev.json
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.dll
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.pdb
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.csprojAssemblyReference.cache
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.RazorAssemblyInfo.cache
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.RazorAssemblyInfo.cs
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.RazorTargetAssemblyInfo.cache
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.dll
+C:\Users\ymehana\Documents\Visual Studio 2017\Projects\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.pdb
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.csprojAssemblyReference.cache
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.RazorAssemblyInfo.cache
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.RazorAssemblyInfo.cs
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.AssemblyInfo.cs
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.dll
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.pdb
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.deps.json
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.runtimeconfig.json
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.runtimeconfig.dev.json
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.dll
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\PingService.pdb
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\MessageQueue.Models.dll
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\ServiceBusMessage.dll
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\ServiceBusMessage.pdb
+D:\Alten\VehicleTracking\PingService\PingService\bin\Debug\netcoreapp2.2\MessageQueue.Models.pdb
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.RazorTargetAssemblyInfo.cache
+D:\Alten\VehicleTracking\PingService\PingService\obj\Debug\netcoreapp2.2\PingService.csproj.CopyComplete

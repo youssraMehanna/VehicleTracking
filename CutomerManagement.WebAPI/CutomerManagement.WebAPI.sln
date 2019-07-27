@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CutomerManagement.WebAPI", "CutomerManagement.WebAPI\CutomerManagement.WebAPI.csproj", "{8E187B4A-E1AB-4980-B347-98BDE135389B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CutomerManagement.BusinessService", "CutomerManagement.BusinessService\CutomerManagement.BusinessService.csproj", "{24C1B8C3-6DD1-4C1E-88EC-40F740D4477E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CutomerManagement.DatabaseService", "CutomerManagement.DatabaseService\CutomerManagement.DatabaseService.csproj", "{42819F4E-2325-44B2-B63C-92B888680085}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CutomerManagement.Interfaces", "CutomerManagement.Interfaces\CutomerManagement.Interfaces.csproj", "{136BE968-9CD1-424E-BB11-49A57666949A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CutomerManagement.Models", "CutomerManagement.Models\CutomerManagement.Models.csproj", "{123C2D83-8240-4746-9E47-96D285124A80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Utility", "Common.Utility\Common.Utility.csproj", "{D70D70EC-4375-48BF-A8BD-4BFA19518529}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceBusMessage", "..\ServiceBusMessage\ServiceBusMessage\ServiceBusMessage.csproj", "{FE005BB0-3872-49E1-BD2B-4958121B78DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E187B4A-E1AB-4980-B347-98BDE135389B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E187B4A-E1AB-4980-B347-98BDE135389B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E187B4A-E1AB-4980-B347-98BDE135389B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E187B4A-E1AB-4980-B347-98BDE135389B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C1B8C3-6DD1-4C1E-88EC-40F740D4477E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C1B8C3-6DD1-4C1E-88EC-40F740D4477E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C1B8C3-6DD1-4C1E-88EC-40F740D4477E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C1B8C3-6DD1-4C1E-88EC-40F740D4477E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42819F4E-2325-44B2-B63C-92B888680085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42819F4E-2325-44B2-B63C-92B888680085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42819F4E-2325-44B2-B63C-92B888680085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42819F4E-2325-44B2-B63C-92B888680085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136BE968-9CD1-424E-BB11-49A57666949A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136BE968-9CD1-424E-BB11-49A57666949A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136BE968-9CD1-424E-BB11-49A57666949A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136BE968-9CD1-424E-BB11-49A57666949A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123C2D83-8240-4746-9E47-96D285124A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123C2D83-8240-4746-9E47-96D285124A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123C2D83-8240-4746-9E47-96D285124A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123C2D83-8240-4746-9E47-96D285124A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70D70EC-4375-48BF-A8BD-4BFA19518529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70D70EC-4375-48BF-A8BD-4BFA19518529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70D70EC-4375-48BF-A8BD-4BFA19518529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70D70EC-4375-48BF-A8BD-4BFA19518529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE005BB0-3872-49E1-BD2B-4958121B78DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE005BB0-3872-49E1-BD2B-4958121B78DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE005BB0-3872-49E1-BD2B-4958121B78DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE005BB0-3872-49E1-BD2B-4958121B78DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC0A0940-AF44-4B33-837D-65C28EF69B24}
+	EndGlobalSection
+EndGlobal

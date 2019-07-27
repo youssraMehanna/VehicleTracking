@@ -1,0 +1,9 @@
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\bin\Debug\netcoreapp2.2\CutomerManagement.Models.deps.json
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\bin\Debug\netcoreapp2.2\CutomerManagement.Models.dll
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\bin\Debug\netcoreapp2.2\CutomerManagement.Models.pdb
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\obj\Debug\netcoreapp2.2\CutomerManagement.Models.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\obj\Debug\netcoreapp2.2\CutomerManagement.Models.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\obj\Debug\netcoreapp2.2\CutomerManagement.Models.AssemblyInfo.cs
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\obj\Debug\netcoreapp2.2\CutomerManagement.Models.dll
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\obj\Debug\netcoreapp2.2\CutomerManagement.Models.pdb
+D:\Alten\VehicleTracking\CutomerManagement.WebAPI\CutomerManagement.Models\obj\Debug\netcoreapp2.2\CutomerManagement.Models.csprojAssemblyReference.cache

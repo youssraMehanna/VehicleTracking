@@ -1,0 +1,9 @@
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\bin\Debug\netcoreapp2.2\MessageQueue.Models.deps.json
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\bin\Debug\netcoreapp2.2\MessageQueue.Models.dll
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\bin\Debug\netcoreapp2.2\MessageQueue.Models.pdb
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\obj\Debug\netcoreapp2.2\MessageQueue.Models.csprojAssemblyReference.cache
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\obj\Debug\netcoreapp2.2\MessageQueue.Models.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\obj\Debug\netcoreapp2.2\MessageQueue.Models.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\obj\Debug\netcoreapp2.2\MessageQueue.Models.AssemblyInfo.cs
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\obj\Debug\netcoreapp2.2\MessageQueue.Models.dll
+D:\Alten\VehicleTracking\Shared\MessageQueue.Models\MessageQueue.Models\obj\Debug\netcoreapp2.2\MessageQueue.Models.pdb

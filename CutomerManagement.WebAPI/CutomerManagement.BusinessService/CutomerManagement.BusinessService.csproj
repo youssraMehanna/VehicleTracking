@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common.Utility\Common.Utility.csproj" />
+    <ProjectReference Include="..\CutomerManagement.Interfaces\CutomerManagement.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ServiceBusMessage">
+      <HintPath>..\..\ServiceBusMessage\ServiceBusMessage\bin\Debug\netcoreapp2.2\ServiceBusMessage.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

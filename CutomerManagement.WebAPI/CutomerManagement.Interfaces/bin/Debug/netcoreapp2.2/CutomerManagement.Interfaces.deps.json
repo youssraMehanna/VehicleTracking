@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CutomerManagement.Interfaces/1.0.0": {
+        "dependencies": {
+          "CutomerManagement.Models": "1.0.0"
+        },
+        "runtime": {
+          "CutomerManagement.Interfaces.dll": {}
+        }
+      },
+      "CutomerManagement.Models/1.0.0": {
+        "runtime": {
+          "CutomerManagement.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CutomerManagement.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CutomerManagement.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\VehicleManagement.BusinessService.deps.json
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\VehicleManagement.BusinessService.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\VehicleManagement.BusinessService.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\VehicleManagement.Interfaces.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\VehicleManagement.Interfaces.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\obj\Debug\netcoreapp2.2\VehicleManagement.BusinessService.csprojAssemblyReference.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\obj\Debug\netcoreapp2.2\VehicleManagement.BusinessService.csproj.CoreCompileInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\obj\Debug\netcoreapp2.2\VehicleManagement.BusinessService.AssemblyInfoInputs.cache
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\obj\Debug\netcoreapp2.2\VehicleManagement.BusinessService.AssemblyInfo.cs
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\obj\Debug\netcoreapp2.2\VehicleManagement.BusinessService.csproj.CopyComplete
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\obj\Debug\netcoreapp2.2\VehicleManagement.BusinessService.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\obj\Debug\netcoreapp2.2\VehicleManagement.BusinessService.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\Common.Utility.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\VehicleManagement.Models.dll
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\Common.Utility.pdb
+D:\Alten\VehicleTracking\VehicleManagement.WebAPI\VehicleManagement.BusinessService\bin\Debug\netcoreapp2.2\VehicleManagement.Models.pdb
